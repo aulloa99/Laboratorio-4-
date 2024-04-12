@@ -1,0 +1,7 @@
+C:\Users\devja\source\repos\aulloa99\EjerciciosProgra\INotificable\INotificable\bin\Debug\INotificable.exe.config
+C:\Users\devja\source\repos\aulloa99\EjerciciosProgra\INotificable\INotificable\bin\Debug\INotificable.exe
+C:\Users\devja\source\repos\aulloa99\EjerciciosProgra\INotificable\INotificable\bin\Debug\INotificable.pdb
+C:\Users\devja\source\repos\aulloa99\EjerciciosProgra\INotificable\INotificable\obj\Debug\INotificable.csproj.AssemblyReference.cache
+C:\Users\devja\source\repos\aulloa99\EjerciciosProgra\INotificable\INotificable\obj\Debug\INotificable.csproj.CoreCompileInputs.cache
+C:\Users\devja\source\repos\aulloa99\EjerciciosProgra\INotificable\INotificable\obj\Debug\INotificable.exe
+C:\Users\devja\source\repos\aulloa99\EjerciciosProgra\INotificable\INotificable\obj\Debug\INotificable.pdb
